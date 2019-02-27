@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  bodgeit:
+    image: psiinon/bodgeit
+    ports:
+      - 8050:8080
